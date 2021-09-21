@@ -159,3 +159,11 @@ jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
 jupyter serverextension enable --sys-prefix jupyter_nbextensions_configurator nb_conda nb_anacondacloud nbpresent
 ```
+
+* ... and if you STILL have problems with widgets:
+
+```
+conda install nodejs
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
+Do not forget to restart the kernel (or jupyter lab itself) to apply all the changes.
