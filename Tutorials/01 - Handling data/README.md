@@ -4,7 +4,7 @@ In this tutorial session we explore the (1.1) fundamental features of [Pandas](h
 
 ---
 
-### 1. Intro do Pandas
+### 1. Intro to Pandas
 
 1. Intro to Pandas I.ipynb: importing data, basic operations, cleaning.
 2. Intro to Pandas II.ipynb: more advanced data manipulation and transformation.
