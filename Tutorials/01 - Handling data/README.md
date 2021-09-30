@@ -15,6 +15,6 @@ In this tutorial session we explore the (1.1) fundamental features of [Pandas](h
 *Updated by: [Panayiotis Smeros](https://github.com/psmeros)*
 
 ---
-### 2. Execises
+### 2. Exercises
 
-Happiness.ipynb: Execises to practice you skills. Solutions will be released on Friday next week.
+Happiness.ipynb: Exercises to practice you skills. Solutions will be released on Friday next week.
