@@ -19,6 +19,6 @@ You are expected to solve the homework as a team of *four*, which you specified 
 5. Most importantly, don’t forget to push the final solved version by **October 22nd, 23:59**!
 
 ### Deliverables
-1. `hw1.ipynb` notebook with disclosed output for each cell. **Do not submit your `data` folder.**
+1. `hw1.ipynb` notebook with disclosed output for each cell. **Please don't update the `data` folder provided in the repository, i.e., use it in read-only mode.**
 
 #### Deadline: October 22nd, 23:59
