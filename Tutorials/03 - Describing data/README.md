@@ -1,6 +1,6 @@
 # 02 - Describing data
 
-In this tutorial session we explore the basic features of python libraries for statistical analysis and we practice using them.
+In this exercise we explore the basic features of python libraries for statistical analysis and we practice using them.
 
 ---
 
