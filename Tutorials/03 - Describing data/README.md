@@ -4,8 +4,8 @@ In this exercise we explore the basic features of python libraries for statistic
 
 ---
 
-### 1. Describing data exercise
+### Describing data exercise
 
 Tutorial and exercises to practice you skills. Solutions will be released next week.
 
-### 2. HW1 office hours
+### Credits to: [Kristina Gligoric](https://kristinagligoric.github.io/)
