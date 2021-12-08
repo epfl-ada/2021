@@ -10,4 +10,4 @@ This notebook gives an introduction for handling graphs, using [`NetworkX`](http
 
 #### HandlingNetworks_Tutorial.ipynb - Credits
 
-Credits to: [Isabela Constantin](https://github.com/isabelaconstantin) and [Jérémie Rappaz](https://github.com/JRappaz)
+### Credits to: [Isabela Constantin](https://github.com/isabelaconstantin) and [Jérémie Rappaz](https://github.com/JRappaz)
