@@ -12,3 +12,5 @@ Tutorial and execises to practice your skills. Solutions will be released next w
 ### 2. Data from the web
 
 Tutorial on scraping data from the web (Requests) and HTML parsing (Beautiful Soup 4).
+
+### Credits to: [Kristina Gligoric](https://kristinagligoric.github.io/) and [Tiziano Piccardi](https://piccardi.me/)
