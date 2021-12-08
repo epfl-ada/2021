@@ -167,3 +167,6 @@ conda install nodejs
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 Do not forget to restart the kernel (or jupyter lab itself) to apply all the changes.
+
+
+## Credits to: [Tiziano Piccardi](https://piccardi.me/)
