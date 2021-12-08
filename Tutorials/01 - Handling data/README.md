@@ -11,10 +11,9 @@ In this tutorial session we explore the (1.1) fundamental features of [Pandas](h
 
 * In case you cannot load the files, try updating xldr: "pip install xlrd==2.0.1"
 
-*Credits to: [Chris Fonnesbeck](https://github.com/fonnesbeck)  and [Michele Catasta](https://github.com/pirroh)*
-*Updated by: [Panayiotis Smeros](https://github.com/psmeros)*
-
----
 ### 2. Execises
 
 Happiness.ipynb: Execises to practice you skills. Solutions will be released on Friday next week.
+
+
+## Credits to: [Chris Fonnesbeck](https://github.com/fonnesbeck), [Michele Catasta](https://github.com/pirroh), [Panayiotis Smeros](https://github.com/psmeros), and [Tiziano Piccardi](https://piccardi.me/)
