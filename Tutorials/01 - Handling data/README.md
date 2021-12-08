@@ -16,4 +16,4 @@ In this tutorial session we explore the (1.1) fundamental features of [Pandas](h
 Happiness.ipynb: Execises to practice you skills. Solutions will be released on Friday next week.
 
 
-## Credits to: [Chris Fonnesbeck](https://github.com/fonnesbeck), [Michele Catasta](https://github.com/pirroh), [Panayiotis Smeros](https://github.com/psmeros), and [Tiziano Piccardi](https://piccardi.me/)
+### Credits to: [Chris Fonnesbeck](https://github.com/fonnesbeck), [Michele Catasta](https://github.com/pirroh), [Panayiotis Smeros](https://github.com/psmeros), and [Tiziano Piccardi](https://piccardi.me/)
