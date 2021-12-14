@@ -1,6 +1,8 @@
 # Scaling Up
 
-Some Intro information: https://bit.ly/39Tz5BC
+1. Some Intro information: https://bit.ly/39Tz5BC
+2. Tutorial: ScalingUp_Tutorial.ipynb
+3. Exercises: ScalingUp_Exercises.ipynb
 
 Requirements:
 
