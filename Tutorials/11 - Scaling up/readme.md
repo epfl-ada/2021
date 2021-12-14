@@ -1,6 +1,6 @@
 # Scaling Up
 
-Intro slides: https://bit.ly/39Tz5BC
+Some Intro information: https://bit.ly/39Tz5BC
 
 Requirements:
 
@@ -11,3 +11,4 @@ PySpark depends on Java and not all versions are compatibles (i.e., Spark 2 need
 
 https://colab.research.google.com/drive/1nMpFAu7Pzf-xfpvoaV__TsS0bu-pDFeA
 
+### Credits to: [Tiziano Piccardi](https://piccardi.me/)
