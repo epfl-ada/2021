@@ -66,7 +66,7 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
 
 ## Dry-run Instructions
 
-Complete the following steps for a smooth exam experience on d-day:
+Complete the following steps for a smooth exam experience on the day of the exam:
 1. Carefully read and familiarize yourself with all the aforementioned rules and instructions.
 2. Set up the `adaexam` [conda environment](#Conda-Environment).
 3. Execute all the cells of `exam_dryrun.ipynb` in Jupyter with `adaexam` as the active conda environment. On successful execution, it should print **'Package import test successful!'** without throwing any errors!
