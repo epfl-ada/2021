@@ -60,7 +60,6 @@ dependencies:
     - numpy==1.21.5
     - patsy==0.5.2
     - pyyaml==6.0
-    - pyspark==3.2.0
     - python-levenshtein==0.12.2
     - scikit-learn==1.0.1
     - scipy==1.7.3
