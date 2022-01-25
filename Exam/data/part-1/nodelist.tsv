@@ -1,0 +1,206 @@
+u	score	name
+1	100.0	Stanford University
+2	99.95666540274091	UC Berkeley
+3	99.30122961919722	MIT
+4	98.36953577812685	California Institute of Technology
+5	97.8928552082769	Harvard University
+6	96.71740425762418	Cornell University
+7	96.18113861654297	Carnegie Mellon University
+8	96.15947131791344	Princeton University
+9	95.80196089052598	Yale University
+10	95.2169438275283	University of Washington
+11	93.93315638372785	University of Illinois, Urbana Champaign
+12	93.55939548236822	University of Wisconsin, Madison
+13	92.91479334813931	University of Pennsylvania
+14	92.30269216185472	Rice University
+15	91.55517035913547	UCLA
+16	91.33308054818265	New York University
+17	91.0134878933969	University of Chicago
+18	90.67764476463897	University of Texas, Austin
+19	89.33427224960728	Brown University
+20	89.00384594550674	Columbia University
+21	87.77964357293754	University of Toronto
+22	87.31921347705973	University of Rochester
+23	87.0321217702183	University of Southern California
+24	86.96170304967227	Johns Hopkins University
+25	86.6096094469422	University of Massachusetts, Amherst
+26	86.07876063051837	UC San Diego
+27	85.68874925518661	University of Maryland, College Park
+28	85.29873787985483	University of Michigan
+29	85.20123503602187	University of North Carolina, Chapel Hill
+30	84.68663669357022	Duke University
+31	81.70196630735063	State University of New York, Stony Brook
+32	80.97069497860355	UC Irvine
+33	80.67818644710471	Dartmouth College
+34	80.5644331292996	University of Virginia
+35	80.47776393478142	Purdue University
+36	80.11483668273658	University of Minnesota, Minneapolis
+37	79.70857483343265	Georgia Tech
+38	79.29147933481391	Rutgers University
+39	79.23189426358269	University of Arizona
+40	78.87980066085261	Pennsylvania State University
+41	78.36520231840096	Ohio State University
+42	77.11933264720221	Northwestern University
+43	76.07388548832674	Washington University, St. Louis
+44	75.85179567737393	University of Pittsburgh
+45	73.18671794594009	Boston University
+46	73.17588429662531	University of British Columbia
+47	71.49125182817832	University of Oregon
+48	70.47288879258977	Syracuse University
+49	70.46205514327501	UC Santa Barbara
+50	69.19451817344672	University of Utah
+51	67.95406532690536	UC Davis
+52	67.00612101186285	Texas A&M
+53	66.01484209956124	University of Houston
+54	65.32690536807324	Michigan State University
+55	64.47646389686366	University of Waterloo
+56	64.28145820919777	University of Colorado, Boulder
+57	63.37684849141433	McGill University
+58	63.26851199826661	CUNY Graduate Center
+59	62.84599967499053	Case Western Reserve University
+60	62.67266128595417	UC Riverside
+61	60.90677644764638	University of Kansas, Lawrence
+62	60.59260061751801	Florida State University
+63	60.47343047505552	College of William and Mary
+64	59.78549374356752	Lehigh University
+65	58.66421103948865	University of Montreal
+66	58.431287579221056	Simon Fraser University
+67	58.236281891555166	University of Illinois, Chicago
+68	58.2254482422404	University of Cincinnati
+69	58.149612697037	UC Santa Cruz
+70	58.046693028546656	Rensselaer Polytechnic Institute
+71	57.75418449704783	Southern Methodist University
+72	57.05541411624505	University of Central Florida
+73	56.97957857104164	University of New Mexico
+74	56.844157954607	North Carolina State University
+75	56.703320513514974	State University of New York, Buffalo
+76	56.57331672173771	Stevens Institute of Technology
+77	56.05871837928606	Washington State University, Pullman
+78	55.70120795189859	McMaster University
+79	55.40869942039976	Brandeis University
+80	54.49325605330155	University of Alberta
+81	53.978657710849895	George Washington University
+82	53.85407074373002	Polytechnic Institute of NYU
+83	53.816152971128325	University of Iowa
+84	53.724066951952764	University of Delaware
+85	51.12940794106494	Iowa State University
+86	51.102323817778014	Vanderbilt University
+87	49.78061860137588	University of Florida
+88	48.48058068360327	George Mason University
+89	47.68972428362494	University of Notre Dame
+90	47.267211960348845	Wayne State University
+91	46.89345105898922	University of Calgary
+92	46.70386219598071	University of Louisiana, Lafayette
+93	46.55219110557391	University of Western Ontario
+94	46.10259465901088	Carleton University
+95	46.03217593846487	Queens University
+96	45.91842262065977	University of Wisconsin, Milwaukee
+97	45.86425437408591	Louisiana State University
+98	43.45376740154921	University of Texas, Arlington
+99	43.02042142895834	University of Ottawa
+100	42.53290720979362	University of Connecticut
+101	42.32165104815557	Oregon Health and Science University
+102	42.316234223498185	Arizona State University
+103	41.99664156871242	Kansas State University
+104	41.52537782351985	State University of New York, Albany
+105	40.572016683819946	University of South Florida
+106	40.32284274958019	Virginia Tech
+107	39.66740696603651	Portland State University
+108	39.591571420833105	University of South Carolina
+109	39.52656952494447	Missouri University of Science and Technology
+110	38.242782081144036	University of Oklahoma
+111	37.96652402361735	Indiana University
+112	37.44109203185093	Illinois Institute of Technology
+113	36.73148800173338	University of Tennessee, Knoxville
+114	36.076052218189695	University of Miami
+115	35.74562591408916	New Jersey Institute of Technology
+116	34.521423541519965	University of Kentucky
+117	33.849737284004114	State University of New York, Binghamton
+118	33.71431666756947	Colorado State University
+119	33.22138562374736	University of Colorado, Denver
+120	33.02637993608147	University of Texas, Dallas
+121	32.95596121553545	University of Rhode Island
+122	32.86929202101728	Toyota Technological Institute at Chicago
+123	32.58220031417583	Auburn University
+124	32.21385623747359	Drexel University
+125	32.02426737446509	Oregon State University
+126	31.265911922431066	University of Manitoba
+127	30.77298087860896	University of Regina
+128	30.431720925193652	University of Nebraska, Lincoln
+129	30.323384432045923	University of Saskatchewan
+130	30.13921239369482	Florida Atlantic University
+131	29.045013812902877	University of Texas, San Antonio
+132	28.725421158117108	University of Denver
+133	28.552082769080766	University of Maryland, Baltimore County
+134	28.362493906072267	Oakland University (Michigan)
+135	27.74497589513027	University of Maine
+136	26.82953252803207	Clarkson University
+137	26.732029684199116	New Mexico State University
+138	26.639943665023562	University of Memphis
+139	26.52619034721846	University of Victoria
+140	26.42868750338551	Concordia University, Montreal
+141	26.065760251340663	University of Missouri, Kansas City
+142	25.6703320513515	University of Missouri, Columbia
+143	25.388657169167434	Dalhousie University
+144	25.377823519852654	Virginia Commonwealth University
+145	24.96614484589134	Worcester Polytechnic Institute
+146	24.261957640431174	Old Dominion University
+147	24.1807052705704	University of Texas, El Paso
+148	24.16445479659824	Naval Postgraduate School
+149	23.639022804831814	University of Massachusetts, Boston
+150	22.772330859650065	University of Wyoming
+151	22.53399057472509	York University
+152	22.306483939114894	University of Georgia
+153	21.883971615838796	Mississippi State University
+154	21.85147066789448	Tufts University
+155	21.62396403228428	Florida International University
+156	20.914360002166735	Southern Illinois University, Carbondale
+157	19.912247440550342	Ohio University
+158	19.44098369535779	Claremont Graduate University
+159	19.392232273441312	Catholic University of America
+160	19.170142462488496	Clemson University
+161	19.164725637831097	University of Massachusetts, Lowell
+162	19.002220898109535	Oklahoma State University
+163	18.509289854287424	University of North Carolina, Charlotte
+164	18.09219435566871	University of Alabama, Birmingham
+165	17.9784410378636	Santa Clara University
+166	17.31217160500515	University of Hawaii, Manoa
+167	16.618818048859758	Temple University
+168	16.515898380369432	University of Toledo
+169	16.461730133795577	Michigan Technological University
+170	16.174638426954125	University of New Hampshire
+171	15.806294350251884	Montana State University
+172	15.557120416012133	University of New Brunswick
+173	14.972103353014472	Wright State University
+174	12.843291262661833	Western Michigan University
+175	12.485780835274367	Northeastern University
+176	12.431612588700512	University of Alabama, Huntsville
+177	12.252857375006773	University of Idaho, Moscow
+178	12.122853583229508	Texas Tech University
+179	12.00368344076702	University of Tulsa
+180	11.559503818861385	University of Mississippi
+181	11.001570879150641	Brigham Young University
+182	9.977791018904727	Long Island University
+183	9.652781539461564	University of Southern Mississippi
+184	9.57694599425817	University of Colorado, Colorado Springs
+185	9.311521586046258	Colorado School of Mines
+186	9.27902063810194	Georgia State University
+187	8.244407128541248	University of Nevada, Las Vegas
+188	8.211906180596932	Kent State University
+189	7.339797410757819	Memorial University of Newfoundland
+190	7.090623476518067	Utah State University
+191	6.700612101186286	DePaul University
+192	5.855587454634095	North Dakota State University
+193	4.490547640972857	Nova Southeastern University
+194	4.409295271112082	University of Arkansas, Fayetteville
+195	4.393044797139924	University of Bridgeport
+196	4.181788635501868	University of Louisville
+197	3.7213585396240747	University of Nebraska, Omaha
+198	3.298846216347978	Florida Institute of Technology
+199	3.087590054709938	University of Arkansas, Little Rock
+200	2.795081523211092	Rochester Institute of Technology
+201	2.5350739396565767	Pace University
+202	2.4700720437679444	New Mexico Institute of Mining and Technology
+203	2.3671523752776147	University of Nevada, Reno
+204	0.016250473972158137	University of Alabama, Tuscaloosa
+205	0.0	University of North Texas, Denton
